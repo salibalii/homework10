@@ -101,13 +101,14 @@ h2 {
     display: flex;
     justify-content: space-between;
     margin-top: 56px;
-    row-gap: 20px;
+    column-gap: 20px;
 }
 article {
     background-color: #311500;
     width: 298px;
     height: 290px;
     padding: 8px;
+    row-gap: 20px;
 }
 .scroll {
     width: 282px;

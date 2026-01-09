@@ -1,0 +1,11 @@
+@media (max-width: 1300px){
+    header{
+        padding: 18px 64px;
+    }
+   .scroll{
+    overflow-x: scroll;
+   }
+article{
+     flex: 1 0 300px;
+}
+}

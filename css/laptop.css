@@ -2,6 +2,9 @@
     header{
         padding: 18px 64px;
     }
+    .section1{
+        height: 560px;
+    }
    .scroll{
     overflow-x: scroll;
    }
